@@ -1,0 +1,1 @@
+# Extract keypoints using MediaPipe
